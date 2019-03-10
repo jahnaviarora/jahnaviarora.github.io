@@ -1,8 +1,8 @@
 ---
 layout: default
-img: ipad.png
+img: https://www.aans.org/-/media/Images/AANS/Patients/Glioblastoma_Multiforme_MRI_Scan.ashx?la=en&hash=EEE0B687F7BB116E131E3EFC7F42002EA257A397
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
-description: |
+title: Glibolastoma Multiforme MRI Image
+description: 
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+ This picture is of a glioblastoma tumor 
